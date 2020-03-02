@@ -1,0 +1,8 @@
+title: 江科钟老师的博客 Jxutzs
+description: 江科钟老师的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
